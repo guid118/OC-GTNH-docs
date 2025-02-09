@@ -7,4 +7,4 @@ OpenComputers docs for the GregTech: New Horizons modpack
 - added keyboard.lua
 - added serialization.lua
 
-# I will also try to keep the commits and their messages clear as to what I've added, so if anything is unclear you can find additions there as well.
+### I will also try to keep the commits and their messages clear as to what I've added, so if anything is unclear you can find additions there as well.
