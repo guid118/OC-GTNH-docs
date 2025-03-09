@@ -41,3 +41,6 @@ function event.pull(timeout, name, ...) end
 ---@param timeout number optional, if passed the function will wait for a new event for this many seconds at maximum then returns nil if no event was queued during that time.
 ---@param filterFunction function if passed the function will use it as a filtering function of events. Allows for advanced filtering.
 function event.pullFiltered(timeout, filterFunction) end
+
+
+return event
